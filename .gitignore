@@ -1,0 +1,6 @@
+/freestanding-headers
+/mlibc
+/c/cc-runtime.c
+/c/flanterm
+/bin-*
+/obj-*
