@@ -71,7 +71,7 @@ if ! test -f version; then
         ef07a10cc38b34aa003d17be97a9f3542e275069
 
     clone_repo_commit \
-        https://github.com/managarm/mlibc.git \
+        https://github.com/v-unikernel/mlibc.git \
         mlibc \
-        a4a0cdf278dcd3aa4bf9cef200c62acae7336bc9
+        a20b6dbb0af6c19ba7accc70f912f817a158b051
 fi
